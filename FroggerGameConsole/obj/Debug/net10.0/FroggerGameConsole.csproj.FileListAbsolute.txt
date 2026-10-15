@@ -1,0 +1,14 @@
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/bin/Debug/net10.0/FroggerGameConsole
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/bin/Debug/net10.0/FroggerGameConsole.deps.json
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/bin/Debug/net10.0/FroggerGameConsole.runtimeconfig.json
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/bin/Debug/net10.0/FroggerGameConsole.dll
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/bin/Debug/net10.0/FroggerGameConsole.pdb
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.AssemblyInfoInputs.cache
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.AssemblyInfo.cs
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.csproj.CoreCompileInputs.cache
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.dll
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/refint/FroggerGameConsole.dll
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.pdb
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/FroggerGameConsole.genruntimeconfig.cache
+/Users/sharky/RiderProjects/FroggerGameConsole/FroggerGameConsole/obj/Debug/net10.0/ref/FroggerGameConsole.dll
